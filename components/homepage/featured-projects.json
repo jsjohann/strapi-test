@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_homepage_featured_projects",
+  "info": {
+    "name": "FeaturedProjects",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "projects": {
+      "collection": "project"
+    }
+  }
+}

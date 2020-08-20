@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_content_meta_tags",
+  "info": {
+    "name": "MetaTags",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "Type": {
+      "type": "enumeration",
+      "enum": [
+        "Title",
+        "Content"
+      ]
+    },
+    "Value": {
+      "type": "string"
+    }
+  }
+}
